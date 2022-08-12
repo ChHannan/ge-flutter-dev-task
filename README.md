@@ -1,4 +1,4 @@
-# assessment
+# GE Flutter Dev Task
 
 A new Flutter project.
 
